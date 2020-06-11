@@ -1,0 +1,4 @@
+SAMPLE_MUSCLE_IMAGE_01.tif
+
+Resolution:   0.924 um/pixel
+Staining:  Collagen V  Antibody - Fluorescent Tagged
