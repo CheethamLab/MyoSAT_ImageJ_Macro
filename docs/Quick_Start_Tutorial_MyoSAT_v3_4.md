@@ -1,8 +1,8 @@
 ### **MyoSAT Quick-Start Tutorial**
 ###### (Myofiber Segmentation and Analysis Tool)
 ___
-**MyoSAT Current version: v3.4 beta**<br>
-Released 6/12/2020 <br>
+**Tutorial for:  MyoSAT v3.4 beta**<br>
+Tutorial Last Update 6/12/2020 <br>
 Copyright (c)2020 Cornell University <br>
 **Authors:** <br>
 Courtney Stevens, Michael Sledziona, Josh Berenson  <br>
@@ -10,7 +10,6 @@ Courtney Stevens, Michael Sledziona, Josh Berenson  <br>
 **Primary Contacts:** <br>
 Michael Sledziona  ms66  {at} cornell.edu <br> 
 Dr. Jon Cheetham  jc485  {at} cornell.edu
-
 
 ### **Introduction:**
 ____
