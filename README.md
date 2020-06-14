@@ -3,8 +3,8 @@
 
 #### Automated Skeletal Muscle Fiber Segmentation Software for Histology <br> Implemented as an ImageJ Macro
 
-![](img/TA_MUSCLE_FULL_ORIGINAL.jpg)  
-![](img/TA_MUSCLE_SEGMENTED_WITH_HISTO.jpg)
+![](Documentation/img/TA_MUSCLE_FULL_ORIGINAL.jpg)  
+![](Documentation/img/TA_MUSCLE_SEGMENTED_WITH_HISTO.jpg)
  	 
 
 ### DOWNLOADS
@@ -22,8 +22,6 @@ ___
 3.	Image Mask Generation using GIMP […Available Soon]
 4.	H&E stained muscle analysis with MyoSAT  […Available Soon]
 
-<br>
-
 ### SOFTWARE DESCRIPTION
 ___
 MyoSAT is an ImageJ Macro application developed for automated segmentation of muscle cross-section images for histology analysis. The input is an image of a muscle cross-section.  The image processing routines automatically segment the muscle fibers in the image. Results include an overlay image of the segmentation result as well as fiber size histograms and count data. 
@@ -37,14 +35,10 @@ Our research group developed MyoSAT after having limited success analyzing large
 MyoSAT was developed by the Cheetham Research Group at the Cornell University Veterinary College. 
 MyoSAT is being released as an open source project for use and continued development by the research community 
 
-<br>
-
 ### IMAGE PROCESSING APPROACH
 ___
 The image processing approach involves three main stages: The first stage is pre-processing. The image is background leveled to compensate for uneven staining intensity. This is followed by contrast enhancement steps. In the second stage, the macro makes use of [Steger’s line detection algorithm](https://doi.org/10.1109/34.659930) to locate fiber boundary candidates. After additional processing steps, The third stage employs [classical watershed segmentation](LINK: https://doi.org/10.1117/12.24211) which is used to generate the final segmentation. Fiber sizes are reported by [minimum feret diameter](LINK: https://doi.org/10.1016/j.nmd.2004.06.008) as well as other metrics. Details of the algorithm development are detailed in the research paper below:
 
-
-<br>
 
 ### CITATION:
 ___
@@ -54,7 +48,6 @@ If you use MyoSAT for your research work, please cite the original paper:
 Authors:  Courtney R. Stevens, Michael Sledziona, Josh Berenson, Timothy P. Moore, Lynn Dong, Jonathan Cheetham <br>
 **[PREPRINT:   https://www.biorxiv.org/content/10.1101/569780v1]**
 
-<br>
 
 ### USAGE AND INSTALLATION NOTES:
 ___
@@ -62,7 +55,6 @@ To become acquainted with the software, we recommend the [MyoSAT Quickstart Tuto
 
 The macro has been tested to work with recent versions of [FIJI/ImageJ](https://imagej.net/Fiji/Downloads)  (Last tested with:   ImageJ version 1.52p)
 
-<br>
 
 #### Dependencies
 The macro code requires several external ImageJ plug-in packages.  
@@ -82,7 +74,6 @@ The easiest way to install these plugins is by adding/activating the following u
 >Used For:         Fast Median, Perona-Malik Anisotropic Diffusion
 
 
-<br>
 
 #### Running the Macro
 We recommend running the script from the ImageJ macro editor.
@@ -95,7 +86,6 @@ We recommend running the script from the ImageJ macro editor.
 * MyoSAT User’s Guide {LINK: https://drive.google.com/file/d/1nsYiELCgSUO4Zz3NL6Yz5Eu71cslvYiN }.
 
 
-<br>
 
 ### REFERENCES
 ___
