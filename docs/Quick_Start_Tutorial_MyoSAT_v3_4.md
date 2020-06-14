@@ -49,7 +49,7 @@ After adding/activating the update sites, you will need to restart ImageJ.  If t
 
 <br>
 
-#### **STEP 2: Open and run the macro code</ins>**
+#### **<ins>**STEP 2: Open and run the macro code</ins>**
 
 Open the MyoSAT script using the ImageJ macro editor
 
