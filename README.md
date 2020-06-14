@@ -82,8 +82,8 @@ We recommend running the script from the ImageJ macro editor.
 1. Locate and open the macro file:      **MyoSAT_v3_4_Beta.ijm**
 1. From the macro editor: <Click Run>
 1. Further instructions:
-* [MyoSAT Quickstart Tutorial](documentation)
-* [MyoSAT User’s Guide](documentation)
+* [MyoSAT Quickstart Tutorial](#documentation)
+* [MyoSAT User’s Guide](#documentation)
 
 
 
