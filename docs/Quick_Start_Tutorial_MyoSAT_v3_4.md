@@ -23,7 +23,8 @@ The test image is from Murine TA muscle which has been IHC labeled using Collage
 > **Format:**                16Bit Grayscale TIFF <br> 
 > ![](img/TUTORIAL_ORIGINAL_IMAGE.jpg)
 
-
+<br>
+<br>
 #### **<ins>Step 1: Start ImageJ. Verify required plugins are installed.</ins>**
 
 
