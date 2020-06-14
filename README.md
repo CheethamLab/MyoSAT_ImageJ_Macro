@@ -37,7 +37,7 @@ MyoSAT is being released as an open source project for use and continued develop
 
 ### IMAGE PROCESSING APPROACH
 ___
-The image processing approach involves three main stages: The first stage is pre-processing. The image is background leveled to compensate for uneven staining intensity. This is followed by contrast enhancement steps. In the second stage, the macro makes use of [Steger’s line detection algorithm](https://doi.org/10.1109/34.659930) to locate fiber boundary candidates. After additional processing steps, The third stage employs [classical watershed segmentation](LINK: https://doi.org/10.1117/12.24211) which is used to generate the final segmentation. Fiber sizes are reported by [minimum feret diameter](LINK: https://doi.org/10.1016/j.nmd.2004.06.008) as well as other metrics. Details of the algorithm development are detailed in the research paper below:
+The image processing approach involves three main stages: The first stage is pre-processing. The image is background leveled to compensate for uneven staining intensity. This is followed by contrast enhancement steps. In the second stage, the macro makes use of [Steger’s line detection algorithm](https://doi.org/10.1109/34.659930) to locate fiber boundary candidates. After additional processing steps, The third stage employs [classical watershed segmentation](https://doi.org/10.1117/12.24211) which is used to generate the final segmentation. Fiber sizes are reported by [minimum feret diameter](https://doi.org/10.1016/j.nmd.2004.06.008) as well as other metrics. Details of the algorithm development are detailed in the research paper below:
 
 
 ### CITATION:
@@ -82,7 +82,7 @@ We recommend running the script from the ImageJ macro editor.
 1. Locate and open the macro file:      **MyoSAT_v3_4_Beta.ijm**
 1. From the macro editor: <Click Run>
 1. Further instructions:
-* [MyoSAT Quickstart Tutorial](#MyoSAT DOCUMENTATION)
+* [MyoSAT Quickstart Tutorial](#myosat-documentation)
 * MyoSAT User’s Guide {LINK: https://drive.google.com/file/d/1nsYiELCgSUO4Zz3NL6Yz5Eu71cslvYiN }.
 
 
