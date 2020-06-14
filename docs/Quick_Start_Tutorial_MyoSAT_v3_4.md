@@ -140,6 +140,12 @@ A new folder will be automatically created in the source image directory. The ne
 
 > ![](img/TUTORIAL_RESULTS_OUTPUT_DIR.jpg)
 
+
+
+<br>
+
+
+
 ## DOCUMENT HISTORY:
 ___
 MyoSAT Quick Start Tutorial Ver 3.4 Beta released 6/12/2020.   
