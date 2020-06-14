@@ -51,7 +51,7 @@ Authors:  Courtney R. Stevens, Michael Sledziona, Josh Berenson, Timothy P. Moor
 
 ### USAGE AND INSTALLATION NOTES:
 ___
-To become acquainted with the software, we recommend the [MyoSAT Quickstart Tutorial](#documentation) followed by reviewing the MyoSAT User’s Guide .
+To become acquainted with the software, we recommend the [MyoSAT Quickstart Tutorial](#documentation) followed by reviewing the [MyoSAT User’s Guide](#documentation) .
 
 The macro has been tested to work with recent versions of [FIJI/ImageJ](https://imagej.net/Fiji/Downloads)  (Last tested with:   ImageJ version 1.52p)
 
@@ -82,8 +82,8 @@ We recommend running the script from the ImageJ macro editor.
 1. Locate and open the macro file:      **MyoSAT_v3_4_Beta.ijm**
 1. From the macro editor: <Click Run>
 1. Further instructions:
-* [MyoSAT Quickstart Tutorial](#myosat-documentation)
-* MyoSAT User’s Guide {LINK: https://drive.google.com/file/d/1nsYiELCgSUO4Zz3NL6Yz5Eu71cslvYiN }.
+* [MyoSAT Quickstart Tutorial](documentation)
+* [MyoSAT User’s Guide](documentation)
 
 
 
