@@ -23,7 +23,10 @@ The test image is from Murine TA muscle which has been IHC labeled using Collage
 > **Format:**                16Bit Grayscale TIFF <br> 
 > ![](img/TUTORIAL_ORIGINAL_IMAGE.jpg)
 
-<br>
+
+### **Steps:**
+____
+
 
 #### **<ins>Step 1: Start ImageJ. Verify required plugins are installed.</ins>**
 
@@ -44,7 +47,9 @@ After adding/activating the update sites, you will need to restart ImageJ.  If t
 >**IJPB-plugins:**	[ImageJ]->Plugins->MorphoLibJ <br>
 >**IJ-Plugins:**	[ImageJ]->Plugins->Filters
 
-#### **Step 2: Open and run the macro code**
+<br>
+
+#### **Step 2: Open and run the macro code</ins>**
 
 Open the MyoSAT script using the ImageJ macro editor
 
@@ -59,13 +64,19 @@ Select Run from the script editor menu.
 
 > ![](img/TUTORIAL_RUN_MACRO_IJM.jpg)
 
-#### **Step 3:   MACRO Startup Screen**
+
+<br>
+
+#### **<ins>Step 3:   MACRO Startup Screen</ins>**
 
 <Click OK>
 
 > ![](img/TUTORIAL_MACRO_STARTUP.jpg)
 
-#### **Step 4:    Select Source Image File**
+
+<br>
+
+#### **<ins>Step 4:    Select Source Image File</ins>**
 
 Locate the image file: **SAMPLE_MUSCLE_IMAGE_01.tif**
 
@@ -73,13 +84,19 @@ Locate the image file: **SAMPLE_MUSCLE_IMAGE_01.tif**
 > ![](img/TUTORIAL_OPEN_SOURCE_IMAGE.jpg)
 
 
-#### **Step 5:      Dialog:**
+<br>
+
+
+#### **<ins>Step 5:      Dialog:</ins>**
 
 Select a mask image->   [No Mask Image]
 
 > ![](img/TUTORIAL_USE_MASK_DIALOG.jpg)
 
-#### **Step 6:      Main Script Configuration Dialog**
+
+<br>
+
+#### **<ins>Step 6:      Main Script Configuration Dialog</ins>**
 
 Use the default values.  Image resolution is 0.924 um/pixel  <br>
 
@@ -90,7 +107,9 @@ Use the default values.  Image resolution is 0.924 um/pixel  <br>
 > ![](img/TUTORIAL_MACRO_CONFIG_MAIN.jpg)
 
 
-#### **Step 7:     Adjust Seed Level Threshold**
+<br>
+
+#### **<ins>Step 7:     Adjust Seed Level Threshold</ins>**
 
 This tuning step aids to suppress over-segmentation of the image. As background information: The over-segmentation issue occurs mainly in the case of elongated fiber cross-sections that are associated with oblique sectioning. The seed points used by the watershed segmentation algorithm are the minima in the blurred image shown.  Over-segmentation sometimes occurs because the elongated fiber cross-sections will contain several local minima in this blurred image step. These local minima are an artifact of the image processing approach employed. The seed level adjustment step helps to reduce the issue by combining nearby local seed values within the elongated fibers As caution, setting the seed level adjustment too high will result in an under-segmentation condition.
 
@@ -102,7 +121,9 @@ Change the MODE dropdown from PREVIEW -> SET
 > ![](img/TUTORIAL_SET_SEED_LEVEL_THRESH_01.jpg)
 > ![](img/TUTORIAL_SET_SEED_LEVEL_THRESH_02.jpg)
 
-#### **Step 8:      Review Segmentation Results*
+<br>
+
+#### **<ins>Step 8:      Review Segmentation Results</ins>**
 
 The macro will next proceed thru the final steps employing classic watershed segmentation. The segmented fiber objects will be analyzed and histogram of fiber sizes will be generated. Additionally a combined image overlaying the segmentation result onto the original image will be displayed.
 
