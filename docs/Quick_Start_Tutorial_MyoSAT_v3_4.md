@@ -11,7 +11,7 @@ Courtney Stevens, Michael Sledziona, Josh Berenson  <br>
 Michael Sledziona  ms66  {at} cornell.edu <br> 
 Dr. Jon Cheetham  jc485  {at} cornell.edu
 
-### **Introduction:**
+### **INTRODUCTION:**
 ____
 This tutorial describes steps to run segmentation analysis on the small sample image which is included with the macro. This provides a quick test to verify that the macro is working properly. 
 
@@ -24,11 +24,11 @@ The test image is from Murine TA muscle which has been IHC labeled using Collage
 > ![](img/TUTORIAL_ORIGINAL_IMAGE.jpg)
 
 
-### **Steps:**
+### **TUTORIAL STEPS:**
 ____
 
 
-#### **<ins>Step 1: Start ImageJ. Verify required plugins are installed.</ins>**
+#### **<ins>STEP 1: Start ImageJ. Verify required plugins are installed.</ins>**
 
 
 Several third party plug-in packages are required to run the script.  The plugin packages may be installed by activating their associated update sites.
@@ -49,7 +49,7 @@ After adding/activating the update sites, you will need to restart ImageJ.  If t
 
 <br>
 
-#### **Step 2: Open and run the macro code</ins>**
+#### **STEP 2: Open and run the macro code</ins>**
 
 Open the MyoSAT script using the ImageJ macro editor
 
@@ -67,7 +67,7 @@ Select Run from the script editor menu.
 
 <br>
 
-#### **<ins>Step 3:   MACRO Startup Screen</ins>**
+#### **<ins>STEP 3:   MACRO Startup Screen</ins>**
 
 <Click OK>
 
@@ -76,7 +76,7 @@ Select Run from the script editor menu.
 
 <br>
 
-#### **<ins>Step 4:    Select Source Image File</ins>**
+#### **<ins>STEP 4:    Select Source Image File</ins>**
 
 Locate the image file: **SAMPLE_MUSCLE_IMAGE_01.tif**
 
@@ -87,7 +87,7 @@ Locate the image file: **SAMPLE_MUSCLE_IMAGE_01.tif**
 <br>
 
 
-#### **<ins>Step 5:      Dialog:</ins>**
+#### **<ins>STEP 5:      Dialog:</ins>**
 
 Select a mask image->   [No Mask Image]
 
@@ -96,7 +96,7 @@ Select a mask image->   [No Mask Image]
 
 <br>
 
-#### **<ins>Step 6:      Main Script Configuration Dialog</ins>**
+#### **<ins>STEP 6:      Main Script Configuration Dialog</ins>**
 
 Use the default values.  Image resolution is 0.924 um/pixel  <br>
 
@@ -109,7 +109,7 @@ Use the default values.  Image resolution is 0.924 um/pixel  <br>
 
 <br>
 
-#### **<ins>Step 7:     Adjust Seed Level Threshold</ins>**
+#### **<ins>STEP 7:     Adjust Seed Level Threshold</ins>**
 
 This tuning step aids to suppress over-segmentation of the image. As background information: The over-segmentation issue occurs mainly in the case of elongated fiber cross-sections that are associated with oblique sectioning. The seed points used by the watershed segmentation algorithm are the minima in the blurred image shown.  Over-segmentation sometimes occurs because the elongated fiber cross-sections will contain several local minima in this blurred image step. These local minima are an artifact of the image processing approach employed. The seed level adjustment step helps to reduce the issue by combining nearby local seed values within the elongated fibers As caution, setting the seed level adjustment too high will result in an under-segmentation condition.
 
@@ -123,7 +123,7 @@ Change the MODE dropdown from PREVIEW -> SET
 
 <br>
 
-#### **<ins>Step 8:      Review Segmentation Results</ins>**
+#### **<ins>STEP 8:      Review Segmentation Results</ins>**
 
 The macro will next proceed thru the final steps employing classic watershed segmentation. The segmented fiber objects will be analyzed and histogram of fiber sizes will be generated. Additionally a combined image overlaying the segmentation result onto the original image will be displayed.
 
