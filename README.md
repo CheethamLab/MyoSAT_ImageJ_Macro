@@ -51,7 +51,7 @@ Authors:  Courtney R. Stevens, Michael Sledziona, Josh Berenson, Timothy P. Moor
 
 ### USAGE AND INSTALLATION NOTES:
 ___
-To become acquainted with the software, we recommend the [MyoSAT Quickstart Tutorial](#MyoSAT DOCUMENTATION) followed by reviewing the MyoSAT User’s Guide .
+To become acquainted with the software, we recommend the [MyoSAT Quickstart Tutorial](#documentation) followed by reviewing the MyoSAT User’s Guide .
 
 The macro has been tested to work with recent versions of [FIJI/ImageJ](https://imagej.net/Fiji/Downloads)  (Last tested with:   ImageJ version 1.52p)
 
@@ -69,7 +69,7 @@ The easiest way to install these plugins is by adding/activating the following u
 >Update Site:    https://sites.imagej.net/IJPB-plugins/ <br>
 >Used For:         Binary Morphological Filters, Watershed Segmentation
 >
->Plugin Name:  **IJ-Plugins** <vr>
+>Plugin Name:  **IJ-Plugins** <br>
 >Update Site:    https://sites.imagej.net/IJ-Plugins/ <br>
 >Used For:         Fast Median, Perona-Malik Anisotropic Diffusion
 
