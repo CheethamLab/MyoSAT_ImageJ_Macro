@@ -26,6 +26,8 @@ The test image is from Murine TA muscle which has been IHC labeled using Collage
 
 #### **Step 1: Start ImageJ. Verify required plugins are installed.**
 
+<ins>text</ins>
+
 Several third party plug-in packages are required to run the script.  The plugin packages may be installed by activating their associated update sites.
 
  *[ImageJ]->Help->Update….->Manage Update Sites*
