@@ -103,7 +103,7 @@ Authors:  Courtney R. Stevens, Michael Sledziona, Josh Berenson, Timothy P. Moor
 
 ### LINKS TO OLDER VERSIONS:
 ___
-MyoSAT_v2_0_Beta.zip Released 5/6/2020  {LINK:  https://drive.google.com/open?id=1afceX-kInpIGOB-oGiwtByJlxkHatD8n }
+MyoSAT_v2_0_Beta.zip Released 5/6/2020  {LINK:  https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/releases/tag/v2.0_Beta }
 
 ### Copyright Notice
 ___
