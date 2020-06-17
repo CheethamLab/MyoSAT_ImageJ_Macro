@@ -7,11 +7,11 @@ The purpose of this guide is to show how to create mask images for use with MyoS
 GIMP is available for download at: https://www.gimp.org/downloads/
 
 1.	Load image into GIMP (‘File’ > ‘Open...’)
-<br/>
+
 
 ![](Documentation/img/img_mask_guide/mask_guide_1.jpg)
 
-<br/><br/>
+
 
 2.	Open the ‘Scale Image’ menu from the top menus: 	‘Image’ > ‘Scale Image...’
 Record the original resolution in pixels of the image, as this will be needed to later restore it to the exact resolution. Change the Image Size tab to %, set height and width to 25% and press Scale in the bottom right.
