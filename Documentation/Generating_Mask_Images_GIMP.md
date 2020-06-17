@@ -16,7 +16,13 @@ Record the original resolution in pixels of the image, as this will be needed to
 
  <p align="center">
   <img src="https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/blob/master/Documentation/img/img_mask_guide/mask_guide_2.jpg" />
+ </p>
+ 
+ <p align="center"> 
   <img src="https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/blob/master/Documentation/img/img_mask_guide/mask_guide_3.jpg" />
+ </p>
+ 
+ <p align="center"> 
   <img src="https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/blob/master/Documentation/img/img_mask_guide/mask_guide_4.jpg" />
 </p> 
 
