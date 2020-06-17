@@ -10,6 +10,7 @@ GIMP is available for download at: https://www.gimp.org/downloads/
 <br/>
 
 ![](Documentation/img/img_mask_guide/mask_guide_1.jpg)
+
 <br/><br/>
 
 2.	Open the ‘Scale Image’ menu from the top menus: 	‘Image’ > ‘Scale Image...’
