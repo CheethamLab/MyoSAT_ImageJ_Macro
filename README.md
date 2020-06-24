@@ -99,6 +99,8 @@ Authors:  Courtney R. Stevens, Michael Sledziona, Josh Berenson, Timothy P. Moor
 
 1. Steger’s Ridge Detection Inplementation: thorstenwagner/ij-ridgedetection: Ridge Detection 1.4.0 https://zenodo.org/record/845874#.XrVo3ahKguU
 
+1. Strange, H., Scott, I. & Zwiggelaar, R. Myofibre segmentation in H&E stained adult skeletal muscle images using coherence-enhancing diffusion filtering. BMC Med Imaging 14, 38 (2014). https://doi.org/10.1186/1471-2342-14-38
+
 
 ### LINKS TO OLDER VERSIONS:
 ___
