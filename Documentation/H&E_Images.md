@@ -13,6 +13,9 @@ MyoSAT can also be used to analyze muscle cross-sections stained with hematoxyli
 >![](img/Strange_2014_4a_low_res.jpg)
 >![](img/Strange_2014_4a_low_res_SEGMENTATION_RESULT.jpg)
 >![](img/Strange_2014_4a_low_res_SEGMENTED_IMAGE.jpg)
+><img src="img/Strange_2014_4a_low_res_FIBER_DIAMETERS.jpg" alt="Strange_2014"
+	title="Strange_2014" width="423" height="330" />
+
 <br>
 
 Images with less even staining, artifacts in the cytoplasm, or higher resolutions may need parameters adjusted to prevent areas of white inside the myofiber from being detected as lines outside the fibers.
@@ -28,7 +31,8 @@ The image below is the same as the first image, but at a higher resolution. Proc
 	title="Strange_2014" width="423" height="330" />
 ><img src="img/Strange_2014_4a_high_res_SEGMENTED_IMAGE.jpg" alt="Strange_2014"
 	title="Strange_2014" width="423" height="330" />	
-
+><img src="img/Strange_2014_4a_high_res_FIBER_DIAMETERS.jpg" alt="Strange_2014"
+	title="Strange_2014" width="423" height="330" />
 
 To reduce noise the 'median filter kernal size' and the 'anisotropic diffusion sigma' can be adjusted. The 'ridge detect line width' and contrast levels can also be adjusted to be more selective for the lines outside the fibers.
 To experimentally determine these parameters, select 'RUN [Config Settings (Advanced)]' from 'COMMAND' drop down menu.
