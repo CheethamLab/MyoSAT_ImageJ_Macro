@@ -1,7 +1,7 @@
-### **Using H&E Images with MyoSAT **
+### Using H&E Images with MyoSAT 
 ___
 
-In addition to collagen V labeled IHC, MyoSAT can be used to analyze muscle cross-sections stained with hematoxylin and eosin. Select the checkbox for 'H&E stained image' on the main settings page, to run a color deconvolution extracting the eosing stain and convert to grayscale. Results will be best for images that are evenly stained cytoplasm and clearly separated myofibers. The image below provides an example that can be processed using default parameters for MyoSAT.
+In addition to collagen V labeled IHC, MyoSAT can be used to analyze muscle cross-sections stained with hematoxylin and eosin. Select the checkbox for 'H&E stained image' on the main settings page, to run a color deconvolution extracting the eosing stain and convert to grayscale. Results will be best for images with evenly stained cytoplasm and clearly separated myofibers. The image below provides an example that can be processed using default parameters for MyoSAT.
 
 <img src="img/Tutorial_H&E_settings_1.tif" alt="H&E_settings_1"
 	title="H&E checkbox" width="661" height="250" />
