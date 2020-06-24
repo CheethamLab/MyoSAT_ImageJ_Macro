@@ -1,10 +1,7 @@
 ### **Using H&E Images with MyoSAT **
 ___
 
-MyoSAT can also be used to analyze muscle cross-sections stained with hematoxylin and eosin. Select the checkbox for 'H&E stained image' on the main settings page, to run a color deconvolution extracting the eosing stain and convert to grayscale. Results will be best for images that with evenly stained cytoplasm and clearly separated myofibers. The image below provides an example that can be processed using default parameters for MyoSAT. 
-
-![](Strange_2014_4a_low_res_SEGMENTED_IMAGE.tif)
-Here
+MyoSAT can also be used to analyze muscle cross-sections stained with hematoxylin and eosin. Select the checkbox for 'H&E stained image' on the main settings page, to run a color deconvolution extracting the eosing stain and convert to grayscale. Results will be best for images that with evenly stained cytoplasm and clearly separated myofibers. The image below provides an example that can be processed using default parameters for MyoSAT. <B>
 
 <img src="img/Tutorial_H&E_settings_1.tif" alt="H&E_settings_1"
 	title="H&E checkbox" width="661" height="250" />
@@ -13,6 +10,9 @@ Here
 > **Image Size:**            423x330 pixels  <br>
 > **Image Scale:**           2.778 µm/pixel  <br>
 > **Format:**                16Bit Grayscale TIFF <br> 
+>![](img/Strange_2014_4a_low_res.jpg)
+>![](img/Strange_2014_4a_low_res_SEGMENTATION_RESULT.jpg)
+>![](img/Strange_2014_4a_low_res_SEGMENTED_IMAGE.jpg)
 
 
 
@@ -23,6 +23,12 @@ The image below is the same as the first image, but at a higher resolution. Proc
 > **Image Size:**            1152x908 pixels  <br>
 > **Image Scale:**           1.033 µm/pixel  <br>
 > **Format:**                16Bit Grayscale TIFF <br> 
+><img src="img/Strange_2014_4a_high_res.jpg" alt="Strange_2014"
+	title="Strange_2014" width="423" height="330" />
+><img src="img/Strange_2014_4a_high_res_SEGMENTATION_RESULT.jpg" alt="Strange_2014"
+	title="Strange_2014" width="423" height="330" />
+><img src="img/Strange_2014_4a_high_res_SEGMENTED_IMAGE.jpg" alt="Strange_2014"
+	title="Strange_2014" width="423" height="330" />	
 
 
 To reduce noise the 'median filter kernal size' and the 'anisotropic diffusion sigma' can be adjusted. The 'ridge detect line width' and contrast levels can also be adjusted to be more selective for the lines outside the fibers.
