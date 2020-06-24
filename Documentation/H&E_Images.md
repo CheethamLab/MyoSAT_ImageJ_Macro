@@ -10,7 +10,8 @@ MyoSAT can also be used to analyze muscle cross-sections stained with hematoxyli
 > **Image Size:**            423x330 pixels  <br>
 > **Image Scale:**           2.778 µm/pixel  <br>
 > **Format:**                16Bit Grayscale TIFF <br> 
-> ![](img/Strange_2014_4a_low_res.tif)
+
+![](img/Strange_2014_4a_low_res.tif)
 
 
 Images with less even staining, artifacts in the cytoplasm, or higher resolutions may need parameters adjusted to prevent areas of white inside the myofiber from being detected as lines outside the fibers.
@@ -20,7 +21,7 @@ The image below is the same as the first image, but at a higher resolution. Proc
 > **Image Size:**            1152x908 pixels  <br>
 > **Image Scale:**           1.033 µm/pixel  <br>
 > **Format:**                16Bit Grayscale TIFF <br> 
-> ![](img/Strange_2014_4a_low_high.tif)
+> ![](img/Strange_2014_4a_low_res.jpg)
 
 To reduce noise the 'median filter kernal size' and the 'anisotropic diffusion sigma' can be adjusted. The 'ridge detect line width' and contrast levels can also be adjusted to be more selective for the lines outside the fibers.
 To experimentally determine these parameters, select 'RUN [Config Settings (Advanced)]' from 'COMMAND' drop down menu.
