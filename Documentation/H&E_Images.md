@@ -52,6 +52,6 @@ For the above image, improved results were found using
 
 All other parameters set to defaults.
 
-References: <b><b>
+References: <br>
 Raw images courtesy of:
 Strange, H., Scott, I. & Zwiggelaar, R. Myofibre segmentation in H&E stained adult skeletal muscle images using coherence-enhancing diffusion filtering. BMC Med Imaging 14, 38 (2014). https://doi.org/10.1186/1471-2342-14-38
