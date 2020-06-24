@@ -6,7 +6,7 @@ MyoSAT can also be used to analyze muscle cross-sections stained with hematoxyli
 <img src="img/Tutorial_H&E_settings_1.tif" alt="H&E_settings_1"
 	title="H&E checkbox" width="661" height="250" />
 
-> **Test Image Filename:**   Strange_2014_4a_low_res.tif <br>
+> **Test Image Filename:**   Strange_2014_4a_low_res.jpg <br>
 > **Image Size:**            423x330 pixels  <br>
 > **Image Scale:**           2.778 µm/pixel  <br>
 > **Format:**                16Bit Grayscale TIFF <br> 
@@ -19,7 +19,7 @@ MyoSAT can also be used to analyze muscle cross-sections stained with hematoxyli
 Images with less even staining, artifacts in the cytoplasm, or higher resolutions may need parameters adjusted to prevent areas of white inside the myofiber from being detected as lines outside the fibers.
 The image below is the same as the first image, but at a higher resolution. Processing it with the default parameters will give poor results as irregularities on the left of the iamge are detected as lines.
 
-> **Test Image Filename:**   Strange_2014_4a_high_res.tif <br>
+> **Test Image Filename:**   Strange_2014_4a_high_res.jpg <br>
 > **Image Size:**            1152x908 pixels  <br>
 > **Image Scale:**           1.033 µm/pixel  <br>
 > **Format:**                16Bit Grayscale TIFF <br> 
