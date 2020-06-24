@@ -1,7 +1,7 @@
 ### **Using H&E Images with MyoSAT **
 ___
 
-**MyoSAT can also be used to analyze muscle cross-sections stained with hematoxylin and eosin. Select the checkbox for 'H&E stained image' on the main settings page, to run a color deconvolution extracting the eosing stain and convert to grayscale. Results will be best for images that with evenly stained cytoplasm and clearly separated myofibers. The image below provides an example that can be processed using default parameters for MyoSAT.** <B>
+MyoSAT can also be used to analyze muscle cross-sections stained with hematoxylin and eosin. Select the checkbox for 'H&E stained image' on the main settings page, to run a color deconvolution extracting the eosing stain and convert to grayscale. Results will be best for images that with evenly stained cytoplasm and clearly separated myofibers. The image below provides an example that can be processed using default parameters for MyoSAT.
 
 <img src="img/Tutorial_H&E_settings_1.tif" alt="H&E_settings_1"
 	title="H&E checkbox" width="661" height="250" />
@@ -14,6 +14,7 @@ ___
 >![](img/Strange_2014_4a_low_res_SEGMENTATION_RESULT.jpg)
 >![](img/Strange_2014_4a_low_res_SEGMENTED_IMAGE.jpg)
 
+<br><br>
 
 
 Images with less even staining, artifacts in the cytoplasm, or higher resolutions may need parameters adjusted to prevent areas of white inside the myofiber from being detected as lines outside the fibers.
