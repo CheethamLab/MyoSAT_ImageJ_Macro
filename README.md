@@ -10,15 +10,15 @@
 ### DOWNLOADS
 ___
 1.	**MyoSAT Software Download Package:** <br>
-[MyoSAT_v3.4_Beta.zip](https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/blob/master/Releases/MyoSAT_v3.4_Beta.zip) (Released 6/11/2020)    
+[MyoSAT_v3.5_Beta.zip](https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/blob/master/Releases/MyoSAT_v3.5_Beta.zip) (Released 6/25/2020)    
 
 2.	**Sample Muscle Cross-Section Image:** <br>
 [MURINE_TA_MUSCLE_SAMPLE_IMAGE_O1.tif](https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/tree/master/Sample_Images/SAMPLE_MUSCLE_IMAGE_01/SAMPLE_MUSCLE_IMAGE_01.tif)
 
 ### DOCUMENTATION
 ___
-1. [MyoSAT Quick Start Tutorial](https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/blob/master/Documentation/Quick_Start_Tutorial_MyoSAT_v3_4.md)
-2.	[MyoSAT Users Guide](https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/blob/master/Documentation/Users_Guide_MyoSAT_v3.4.md)
+1. [MyoSAT Quick Start Tutorial](https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/blob/master/Documentation/Quick_Start_Tutorial_MyoSAT_v3_5.md)
+2.	[MyoSAT Users Guide](https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/blob/master/Documentation/Users_Guide_MyoSAT_v3.5.md)
 3.	Image Mask Generation using GIMP […Available Soon]
 4.	H&E stained muscle analysis with MyoSAT  […Available Soon]
 
@@ -51,7 +51,7 @@ Authors:  Courtney R. Stevens, Michael Sledziona, Josh Berenson, Timothy P. Moor
 
 ### USAGE AND INSTALLATION NOTES:
 ___
-To become acquainted with the software, we recommend the [MyoSAT Quickstart Tutorial](https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/blob/master/Documentation/Quick_Start_Tutorial_MyoSAT_v3_4.md) followed by reviewing the [MyoSAT User’s Guide](https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/blob/master/Documentation/Users_Guide_MyoSAT_v3.4.md) .
+To become acquainted with the software, we recommend the [MyoSAT Quickstart Tutorial](https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/blob/master/Documentation/Quick_Start_Tutorial_MyoSAT_v3_5.md) followed by reviewing the [MyoSAT User’s Guide](https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/blob/master/Documentation/Users_Guide_MyoSAT_v3.5.md) .
 
 The macro has been tested to work with recent versions of [FIJI/ImageJ](https://imagej.net/Fiji/Downloads)  (Last tested with:   ImageJ version 1.52p)
 
@@ -79,11 +79,11 @@ The easiest way to install these plugins is by adding/activating the following u
 We recommend running the script from the ImageJ macro editor.
 *Plugins->Macros->Edit*
 
-1. Locate and open the macro file:      **MyoSAT_v3_4_Beta.ijm**
+1. Locate and open the macro file:      **MyoSAT_v3_5_Beta.ijm**
 1. From the macro editor: *\<Click Run\>*
 1. Further instructions:
-* [MyoSAT Quickstart Tutorial](https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/blob/master/Documentation/Quick_Start_Tutorial_MyoSAT_v3_4.md)
-* [MyoSAT User’s Guide](https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/blob/master/Documentation/Users_Guide_MyoSAT_v3.4.md)
+* [MyoSAT Quickstart Tutorial](https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/blob/master/Documentation/Quick_Start_Tutorial_MyoSAT_v3_5.md)
+* [MyoSAT User’s Guide](https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/blob/master/Documentation/Users_Guide_MyoSAT_v3.5.md)
 
 
 ### REFERENCES
