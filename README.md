@@ -109,7 +109,7 @@ MyoSAT_v2_0_Beta.zip Released 5/6/2020  {LINK:  https://github.com/CheethamLab/M
 ### Copyright Notice
 ___
 **Copyright Notice:**
-Copyright (c)2020 Cornell University  <br>
+Copyright &copy; 2020 Cornell University  <br>
 For Public Release
 
 **Authors:** <br>
