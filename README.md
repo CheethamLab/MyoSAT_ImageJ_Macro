@@ -117,5 +117,5 @@ Courtney Stevens, Michael Sledziona, Josh Berenson  <br>
   (Cornell University College of Veterinary Medicine) <br>
 
 **Primary Contacts:** <br>
-Michael Sledziona  ms66  {at} cornell.edu <br> 
-Dr. Jon Cheetham  jc485  {at} cornell.edu
+Michael Sledziona  ms66 @ cornell.edu <br> 
+Dr. Jon Cheetham  jc485 @ cornell.edu
