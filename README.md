@@ -104,7 +104,9 @@ Authors:  Courtney R. Stevens, Michael Sledziona, Josh Berenson, Timothy P. Moor
 
 ### LINKS TO OLDER VERSIONS:
 ___
-MyoSAT_v2_0_Beta.zip Released 5/6/2020  {LINK:  https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/releases/tag/v2.0_Beta }
+MyoSAT_v2_0_Beta.zip Released 5/6/2020  {LINK:  https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/releases/tag/v2.0_Beta } <br>
+MyoSAT_v3_4_Beta.zip Released 6/25/2020  {LINK:  https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/releases/tag/v3.4_Beta }
+
 
 ### Copyright Notice
 ___
