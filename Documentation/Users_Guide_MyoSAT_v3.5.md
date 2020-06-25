@@ -1,15 +1,15 @@
 ## **MyoSAT User's Guide**
 #### ( Myofiber Segmentation and Analysis Tool )
 ___
-**User's Guide for:  MyoSAT v3.4 beta**<br>
-Document Last Update 6/16/2020 <br>
-Copyright (c)2020 Cornell University <br>
+**User's Guide for:  MyoSAT v3.5 beta**<br>
+Document Last Update 6/25/2020 <br>
+Copyright  &copy; 2020 Cornell University <br>
 **Authors:** <br>
 Courtney Stevens, Michael Sledziona, Josh Berenson  <br>
   (Cornell University College of Veterinary Medicine) <br>
 **Primary Contacts:** <br>
-Michael Sledziona  ms66  {at} cornell.edu <br> 
-Dr. Jon Cheetham  jc485  {at} cornell.edu
+Michael Sledziona  ms66  @ cornell.edu <br> 
+Dr. Jon Cheetham  jc485  @ cornell.edu
 
 ![](img/TA_MUSCLE_FULL_ORIGINAL.jpg)
 
@@ -218,3 +218,4 @@ Authors:  Courtney R. Stevens, Michael Sledziona, Josh Berenson, Timothy P. Moor
 ### **DOCUMENT HISTORY:**
 ___
 MyoSAT User's Guide [for MyoSAT Ver 3.4 Beta] -> Document released 6/16/2020 -MS
+MyoSAT User's Guide [for MyoSAT Ver 3.5 Beta] -> Document Updated 6/25/2020 -JB
