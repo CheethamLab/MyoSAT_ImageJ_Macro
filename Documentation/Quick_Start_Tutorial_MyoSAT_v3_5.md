@@ -1,8 +1,8 @@
 ### **MyoSAT Quick-Start Tutorial**
 ###### (Myofiber Segmentation and Analysis Tool)
 ___
-**Tutorial for:  MyoSAT v3.4 beta**<br>
-Tutorial Last Update 6/12/2020 <br>
+**Tutorial for:  MyoSAT v3.5 beta**<br>
+Tutorial Last Update 6/25/2020 <br>
 Copyright (c)2020 Cornell University <br>
 **Authors:** <br>
 Courtney Stevens, Michael Sledziona, Josh Berenson  <br>
@@ -148,4 +148,5 @@ A new folder will be automatically created in the source image directory. The ne
 
 ## DOCUMENT HISTORY:
 ___
-MyoSAT Quick Start Tutorial Ver 3.4 Beta released 6/12/2020.   
+MyoSAT Quick Start Tutorial Ver 3.4 Beta released 6/12/2020.
+MyoSAT Quick Start Tutorial Ver 3.5 Beta released 6/25/2020. 
