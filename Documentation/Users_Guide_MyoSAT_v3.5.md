@@ -217,5 +217,5 @@ Authors:  Courtney R. Stevens, Michael Sledziona, Josh Berenson, Timothy P. Moor
 
 ### **DOCUMENT HISTORY:**
 ___
-MyoSAT User's Guide [for MyoSAT Ver 3.4 Beta] -> Document released 6/16/2020 -MS
+MyoSAT User's Guide [for MyoSAT Ver 3.4 Beta] -> Document released 6/16/2020 -MS <br>
 MyoSAT User's Guide [for MyoSAT Ver 3.5 Beta] -> Document Updated 6/25/2020 -JB
