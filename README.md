@@ -19,7 +19,7 @@ ___
 ___
 1. [MyoSAT Quick Start Tutorial](https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/blob/master/Documentation/Quick_Start_Tutorial_MyoSAT_v3_5.md)
 2.	[MyoSAT Users Guide](https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/blob/master/Documentation/Users_Guide_MyoSAT_v3.5.md)
-3.	Image Mask Generation using GIMP […Available Soon]
+3.	[Image Mask Generation using GIMP](https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/blob/master/Documentation/Creating_Mask_Images_GIMP.md)
 4.	[H&E stained muscle analysis with MyoSAT](https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/blob/master/Documentation/H%26E_Images.md)
 ### SOFTWARE DESCRIPTION
 ___
