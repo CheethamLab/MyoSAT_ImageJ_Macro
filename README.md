@@ -20,8 +20,7 @@ ___
 1. [MyoSAT Quick Start Tutorial](https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/blob/master/Documentation/Quick_Start_Tutorial_MyoSAT_v3_5.md)
 2.	[MyoSAT Users Guide](https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/blob/master/Documentation/Users_Guide_MyoSAT_v3.5.md)
 3.	Image Mask Generation using GIMP […Available Soon]
-4.	H&E stained muscle analysis with MyoSAT  […Available Soon]
-
+4.	[H&E stained muscle analysis with MyoSAT](https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/blob/master/Documentation/H%26E_Images.md)
 ### SOFTWARE DESCRIPTION
 ___
 MyoSAT is an ImageJ Macro application developed for automated segmentation of muscle cross-section images for histology analysis. The input is an image of a muscle cross-section.  The image processing routines automatically segment the muscle fibers in the image. Results include an overlay image of the segmentation result as well as fiber size histograms and count data. 
