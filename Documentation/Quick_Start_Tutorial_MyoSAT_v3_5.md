@@ -41,6 +41,7 @@ Verify that the following update sites are active:   **Biomedgroup**,  **IJPB-pl
 
 > ![](img/TUTORIAL_UPDATE_SITES_02.jpg)
 
+Hit "Close", then "Apply changes"
 After adding/activating the update sites, you will need to restart ImageJ.  If the update sites are configured correctly, these plug-in menus should be available:
 
 >**Biomedgroup:**  	 [ImageJ]->Plugins->Ridge Detection <br>
