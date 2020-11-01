@@ -2,12 +2,13 @@
 ###### (Myofiber Segmentation and Analysis Tool)
 ___
 **Tutorial for:  MyoSAT v3.5 beta**<br>
-Tutorial Last Update 6/25/2020 <br>
+Tutorial Last Update 11/1/2020 <br>
 Copyright (c)2020 Cornell University <br>
+<br>
 **Authors:** <br>
 Courtney Stevens, Michael Sledziona, Josh Berenson  <br>
-  (Cornell University College of Veterinary Medicine) <br>
-** Additional Contributors: ** <br>
+  (Cornell University College of Veterinary Medicine) <br> 
+**Additional Contributors:** <br>
 Kareena Sagar (Cornell University College of Veterinary Medicine) <br>
   
 **Primary Contacts:** <br>
