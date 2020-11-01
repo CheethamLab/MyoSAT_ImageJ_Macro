@@ -7,6 +7,9 @@ Copyright (c)2020 Cornell University <br>
 **Authors:** <br>
 Courtney Stevens, Michael Sledziona, Josh Berenson  <br>
   (Cornell University College of Veterinary Medicine) <br>
+** Additional Contributors: ** <br>
+Kareena Sagar (Cornell University College of Veterinary Medicine) <br>
+  
 **Primary Contacts:** <br>
 Michael Sledziona  ms66  {at} cornell.edu <br> 
 Dr. Jon Cheetham  jc485  {at} cornell.edu
