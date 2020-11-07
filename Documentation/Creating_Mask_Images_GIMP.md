@@ -26,7 +26,7 @@ Record the original resolution in pixels of the image, as this will be needed to
   <img src="https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/blob/master/Documentation/img/img_mask_guide/mask_guide_4.jpg" />
 </p> 
 
-3.	From the top menus select: ‘Layer’ > ‘Transparency’ > ‘Alpha Channel’
+3.	From the top menus select: ‘Layer’ > ‘Transparency’ > ‘Add Alpha Channel’
 
  <p align="center">
   <img src="https://github.com/CheethamLab/MyoSAT_ImageJ_Macro/blob/master/Documentation/img/img_mask_guide/mask_guide_5.jpg" />
