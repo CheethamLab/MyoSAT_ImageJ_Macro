@@ -53,7 +53,9 @@ Several third party plug-in packages are required to run the script.  The plugin
 
 > ![](img/TUTORIAL_UPDATE_SITES_01.jpg)
 
-Verify that the following update sites are active:   **Biomedgroup**,  **IJPB-plugins**,  **IJ-Plugins**
+Add the **IJ-Plugins** update site by following '<a href="https://github.com/ij-plugins/ijp-toolkit/wiki/Fiji-Managed-Installation" >THESE INSTRUCTIONS</a>'
+
+Then, verify that the following update sites are active:   **Biomedgroup**,  **IJPB-plugins**,  **IJ-Plugins**
 
 > ![](img/TUTORIAL_UPDATE_SITES_02.jpg)
 
