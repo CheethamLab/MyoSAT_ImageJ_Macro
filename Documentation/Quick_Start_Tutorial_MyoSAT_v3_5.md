@@ -32,7 +32,9 @@ The test image is from Murine TA muscle which has been IHC labeled using Collage
 ____
 
 We recommend installing ImageJ with the FIJI package as it is more user friendly
+
 '<a href="https://imagej.net/Fiji/Downloads" >CLICK HERE</a>' to download ImageJ
+
 
 ### **TUTORIAL STEPS:**
 ____
