@@ -31,9 +31,13 @@ The test image is from Murine TA muscle which has been IHC labeled using Collage
 ### **INSTALL IMAGEJ:**
 ____
 
-We recommend installing ImageJ with the FIJI package as it is more user friendly
+We recommend installing ImageJ with the FIJI package as it is more user friendly.
 
-'<a href="https://imagej.net/Fiji/Downloads" >CLICK HERE</a>' to download ImageJ
+'<a href="https://imagej.net/Fiji/Downloads" >CLICK HERE</a>' to download ImageJ.
+
+Mac Users:
+
+Use '<a href="https://kb.franklin.uga.edu/display/public/FOKFC/Fiji+%28ImageJ%29+Installation+Instructions" >THIS GUIDE</a>' for instructions on how to install ImageJ on an Apple device. 
 
 
 ### **TUTORIAL STEPS:**
