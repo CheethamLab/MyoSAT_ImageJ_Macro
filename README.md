@@ -6,14 +6,14 @@
 ![](Documentation/img/TA_MUSCLE_FULL_ORIGINAL.jpg)  
 ![](Documentation/img/TA_MUSCLE_SEGMENTED_WITH_HISTO.jpg)
 <br>
-Collagen V labelled image
+Collagen V labelled IHC image
 ___
 ![](Documentation/img/Strange_2014_4a_low_res.jpg)  
 ![](Documentation/img/Strange_2014_4a_low_res_SEGMENTED_IMAGE.jpg)
 ![](Documentation/img/Strange_2014_4a_low_res_FIBER_DIAMETERS.jpg)
 <br>
 H&E stained image
-<br>
+<br> <br>
 Raw image courtesy of: Strange, H., Scott, I. & Zwiggelaar, R. Myofibre segmentation in H&E stained adult skeletal muscle images using coherence-enhancing diffusion filtering. BMC Med Imaging 14, 38 (2014). https://doi.org/10.1186/1471-2342-14-38
 
 ### DOWNLOADS
